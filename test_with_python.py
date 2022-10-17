@@ -3,3 +3,5 @@ def greeting(name: str) -> str:
 
 
 print(greeting('everyone'))
+
+dif = 'Difference'
